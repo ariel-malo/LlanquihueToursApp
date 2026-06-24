@@ -9,7 +9,9 @@ Actividad Formativa semana 6 – Desarrollo Orientado a Objetos I
 ---
 
 ## 📘 Descripción general del sistema
-este proyecto corresponde a la actividad formativa 4 de la semana 6
+este proyecto corresponde a la actividad formativa 4 de la semana 6 donde veremos como implementar la herencia y el polimorfismo, 
+creando una clase padre para posteriormente crear subclases usando el extends e implementando un metodo para crear instancias 
+de las subclases.
 
 ## 🧱 Estructura general del proyecto
 
@@ -31,7 +33,7 @@ este proyecto corresponde a la actividad formativa 4 de la semana 6
 1. Clona el repositorio desde GitHub:
 
 ```bash
-https://github.com/ariel-malo/LlanquihueTour.git
+https://github.com/ariel-malo/LlanquihueToursApp.git
 ```
 
 2. Abre el proyecto en IntelliJ IDEA.
@@ -42,7 +44,7 @@ https://github.com/ariel-malo/LlanquihueTour.git
 
 ---
 
-**Repositorio GitHub:** 
+**Repositorio GitHub:** https://github.com/ariel-malo/LlanquihueToursApp.git
 **Fecha de entrega:** \[24/06/2026]
 
 ---
