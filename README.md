@@ -37,8 +37,9 @@ https://github.com/ariel-malo/LlanquihueToursApp.git
 ```
 
 2. Abre el proyecto en IntelliJ IDEA.
-3. Crea un objeto en la clase Main.java desde el paquete app
-4. Ejecuta el archivo `Main.java` desde el paquete `ui`.
+3. Crea un objeto de la clase GestorDatos en la clase Main.java desde el paquete ui.
+4. llama el metodo de la clase para crear las instancias.
+5. Ejecuta el archivo `Main.java` desde el paquete `ui`.
 
 
 
